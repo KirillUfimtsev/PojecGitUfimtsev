@@ -33,11 +33,19 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="165dp"
+        android:layout_height="67dp"
         android:text="Button"
-        tools:layout_editor_absoluteX="152dp"
-        tools:layout_editor_absoluteY="199dp" />
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="81dp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="192dp"
+        android:layout_height="78dp"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="95dp" />
 
     <ScrollView
         android:layout_width="202dp"
