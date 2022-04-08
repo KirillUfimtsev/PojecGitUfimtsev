@@ -40,8 +40,8 @@
         tools:layout_editor_absoluteY="199dp" />
 
     <ScrollView
-        android:layout_width="409dp"
-        android:layout_height="54dp"
+        android:layout_width="202dp"
+        android:layout_height="184dp"
         tools:layout_editor_absoluteX="2dp"
         tools:layout_editor_absoluteY="2dp">
 
